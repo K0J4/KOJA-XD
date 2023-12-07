@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-import KOJA_XD
-KOJA_XD.main()
+os.system('chmod 777 DUFFER')
+os.system('./DUFFER')
